@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Smartphone",
+      "price": 200,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+      "brand": "Samsung",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "productName": "Laptop",
+      "price": 65000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Dell",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "productName": "Headphones",
+      "price": 3000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Sony",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "productName": "Smartwatch",
+      "price": 8000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Apple",
+      "category": "Wearables"
+    },
+    {
+      "id": 5,
+      "productName": "Bluetooth Speaker",
+      "price": 5000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "JBL",
+      "category": "Accessories"
+    },
+    {
+      "id": 6,
+      "productName": "Keyboard",
+      "price": 1200,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Logitech",
+      "category": "Computer"
+    },
+    {
+      "id": 7,
+      "productName": "Mouse",
+      "price": 900,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "HP",
+      "category": "Computer"
+    },
+    {
+      "id": 8,
+      "productName": "Monitor",
+      "price": 15000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "LG",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "productName": "Camera",
+      "price": 35000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Canon",
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "productName": "Printer",
+      "price": 18000,
+      "image": "https://i.ibb.co.com/JYjPKxf/a8da7a5704501c99e046c604d7f0988322b08b87.png",
+
+      "brand": "Epson",
+      "category": "Electronics"
+    }
+  ]
+}
